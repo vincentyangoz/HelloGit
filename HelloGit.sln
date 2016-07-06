@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGit", "HelloGit\HelloGit.csproj", "{7DCF7468-8917-4ACB-BF02-6F750FC2C1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGit.Tests", "HelloGit.Tests\HelloGit.Tests.csproj", "{16A700F9-1205-49EE-A698-0A6EC2C305BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCF7468-8917-4ACB-BF02-6F750FC2C1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCF7468-8917-4ACB-BF02-6F750FC2C1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCF7468-8917-4ACB-BF02-6F750FC2C1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCF7468-8917-4ACB-BF02-6F750FC2C1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A700F9-1205-49EE-A698-0A6EC2C305BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A700F9-1205-49EE-A698-0A6EC2C305BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A700F9-1205-49EE-A698-0A6EC2C305BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A700F9-1205-49EE-A698-0A6EC2C305BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
